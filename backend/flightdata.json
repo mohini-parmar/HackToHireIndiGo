@@ -1,0 +1,67 @@
+[
+    {
+        "flight_id": "6E 2341",
+        "airline": "Indigo",
+        "status": "On Time",
+        "from":"DEL Delhi",
+        "to":"BOM Mumbai",
+        "departure_gate": "A12",
+        "arrival_gate": "B7",
+        "scheduled_departure": "2024-07-26T14:00:00Z",
+        "scheduled_arrival": "2024-07-26T18:00:00Z",
+        "actual_departure": null,
+        "actual_arrival": null
+    },
+    {
+        "flight_id": "6E 2342",
+        "airline": "Indigo",
+        "status": "Delayed",
+        "from":"DEL Delhi",
+        "to":"BDQ Vadodara",
+        "departure_gate": "C3",
+        "arrival_gate": "D4",
+        "scheduled_departure": "2024-07-26T16:00:00Z",
+        "scheduled_arrival": "2024-07-26T20:00:00Z",
+        "actual_departure": null,
+        "actual_arrival": null
+    },
+    {
+        "flight_id": "6E 2343",
+        "airline": "Indigo",
+        "status": "Cancelled",
+        "from":"DEL Delhi",
+        "to":"AHD Ahmedabad",
+        "departure_gate": "E2",
+        "arrival_gate": "F1",
+        "scheduled_departure": "2024-07-26T12:00:00Z",
+        "scheduled_arrival": "2024-07-26T16:00:00Z",
+        "actual_departure": null,
+        "actual_arrival": null
+    },
+    {
+        "flight_id": "6E 2344",
+        "airline": "Indigo",
+        "status": "On Time",
+        "from":"DEL Delhi",
+        "to":"COK Kochi",
+        "departure_gate": "A4",
+        "arrival_gate": "D4",
+        "scheduled_departure": "2024-07-31T16:00:00Z",
+        "scheduled_arrival": "2024-07-31T20:00:00Z",
+        "actual_departure": null,
+        "actual_arrival": null
+    },
+    {
+        "flight_id": "6E 2345",
+        "airline": "Indigo",
+        "status": "Cancelled",
+        "from":"DEL Delhi",
+        "to":"HYD Hydrabad",
+        "departure_gate": "C3",
+        "arrival_gate": "D4",
+        "scheduled_departure": "2024-07-30T16:00:00Z",
+        "scheduled_arrival": "2024-07-30T20:00:00Z", 
+        "actual_departure": null,
+        "actual_arrival": null
+    }
+]

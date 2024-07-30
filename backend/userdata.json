@@ -1,0 +1,39 @@
+[
+    {
+        "user_id": "admin",
+        "user_type": "admin",
+        "user_name": "admin123",
+        "password": "demo@123",
+        "email":"test@yopmail.com",
+        "phone":"1234567890",
+        "flight_id":"6E 2341"
+    },
+    {
+        "user_id": "demo",
+        "user_type": "user",
+        "user_name": "demo12",
+        "password": "demo@23",
+        "email":"hitarthgohel211@gmail.com",
+        "phone":"9409061394",
+        "flight_id":"6E 2342"
+    },
+    {
+        "user_id": "demo44",
+        "user_type": "userrr",
+        "user_name": "demo12y",
+        "password": "demo@230",
+        "email":"mohiniparmar1999@gmail.com",
+        "phone":"8401184796",
+        "flight_id":"6E 2342"
+    },
+    {
+        "user_id": "usr",
+        "user_type": "user",
+        "user_name": "usr123",
+        "password": "demo@13",
+        "email":"test33@yopmail.com",
+        "phone":"1234567890",
+        "flight_id":"6E 2341"
+    }
+
+]

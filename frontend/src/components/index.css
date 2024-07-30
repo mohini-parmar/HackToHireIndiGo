@@ -1,0 +1,101 @@
+.login_form {
+    background-color: #000080;
+    color: white;
+    padding: 10px 0 10px 0;
+    margin-top: 5.5rem;
+    border: 1px solid transparent;
+    border-radius: 0.5rem;
+}
+
+.header {
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.footer {
+    border-top: 1px solid #d3d3d3;
+    background-color: #f8f9fa;
+    margin-top: auto;
+    padding: 1rem 0;
+}
+
+.accordion-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px; 
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: relative;
+  }
+  
+  .flight-info {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .flight-id {
+    margin-right: 10px;
+  }
+  
+  .flight-route {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .flight-status {
+    position: absolute;
+    right: 1rem; 
+  }
+  
+
+  .status-on-time {
+    color: green;
+  }
+  
+  .status-delayed {
+    color: orange;
+  }
+  
+  .status-cancelled {
+    color: red;
+  }
+
+  .accordian-hr{
+    border-bottom: 1px dotted lightgray;
+  }
+
+  .accordian-border-top{
+    border-top: 1px dotted lightgray;
+  }
+
+  .separator{
+    color : black;
+    font-weight: normal !important;
+  }
+
+  label{
+    color: #818589;
+  }
+
+  .form-label{
+    color : white
+  }
+
+  .bs-button{
+    background-color: orangered !important;
+    border: transparent !important;
+    width: 3rem !important;
+  }
+
+  .modal-form-label{
+    color : black;
+  }
+  
